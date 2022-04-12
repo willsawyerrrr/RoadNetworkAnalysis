@@ -1,0 +1,13 @@
+﻿Segment,From,To,Length (km),Lanes (-),Speed (km/hr)
+A,Springfield,Carole Park,7,6,80
+B,Carole Park,Darra,5.5,4,100
+C,Carole Park,Drewvale,12,6,100
+D,Darra,Woollongabba,14,4,90
+E,Darra,Bowen Hills,19,4,80
+F,Drewvale,Loganholme,14,6,100
+G,Drewvale,Eight Mile Plains,9,4,100
+H,Loganholme,Eight Mile Plains,15,6,100
+I,Eight Mile Plains,Woollongabba,12,6,100
+J,Woollongabba,Bowen Hills,5.5,6,80
+K,Eight Mile Plains,Brisbane Airport,21,6,100
+L,Bowen Hills,Brisbane Airport,9,4,80
